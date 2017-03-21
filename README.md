@@ -7,3 +7,4 @@ This is where I will place all of the PowerShell related scripts from NotesofaSc
 
 02/26/2016 - added script - http://notesofascripter.com/2015/10/07/how-to-verify-windows-features-match-with-powershell/
 
+03/21/2017 - added script - http://notesofascripter.com/2017/03/21/powershell-configure-iscsi-mpio/
